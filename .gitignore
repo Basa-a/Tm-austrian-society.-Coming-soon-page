@@ -1,2 +1,5 @@
 billy_html/
 .DS_Store
+
+# git rm -r --cached billy_html/
+
