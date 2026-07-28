@@ -4,3 +4,8 @@ docker-compose.yml
 init-letsencrypt.sh
 certbot
 
+certs/
+*.pem
+*.key
+*.crt
+

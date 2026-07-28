@@ -1,3 +1,8 @@
 billy_html/
 .DS_Store
 
+certs/
+*.pem
+*.key
+*.crt
+
